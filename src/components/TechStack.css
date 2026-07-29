@@ -1,0 +1,32 @@
+.tech-stack {
+  padding: 80px;
+  background: #020617;
+  color: white;
+  text-align: center;
+}
+
+.tech-stack h2 {
+  font-size: 42px;
+  margin-bottom: 40px;
+}
+
+.tech-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+.tech-card {
+  width: 180px;
+  padding: 25px;
+  background: #111827;
+  border-radius: 15px;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+.tech-card:hover {
+  transform: translateY(-8px);
+  background: #1e293b;
+}

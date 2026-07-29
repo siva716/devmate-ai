@@ -1,16 +1,36 @@
-# React + Vite
+# 🚀 DevMate AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Build Better. Code Smarter.
 
-Currently, two official plugins are available:
+DevMate AI is an AI-powered coding assistant platform designed to help developers understand code, identify bugs, and improve programming skills with intelligent guidance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🤖 AI Code Explanation
+- 🐞 Bug Detection Assistance
+- ⌨️ Coding Practice Mode
+- 🚀 Developer Learning Roadmap
+- 💻 Modern Responsive UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- CSS3
+
+### Backend (Future Implementation)
+- Node.js
+- Express.js
+
+### AI / Machine Learning
+- Python
+- Machine Learning Models
+
+---
+
+## 📂 Project Structure
